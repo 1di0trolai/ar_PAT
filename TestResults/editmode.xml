@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="15" result="Passed" total="15" passed="15" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-10-22 10:07:13Z" end-time="2026-10-22 10:07:14Z" duration="0.2892354">
+  <test-suite type="TestSuite" id="1000" name="PAT AR Lab" fullname="PAT AR Lab" runstate="Runnable" testcasecount="15" result="Passed" start-time="2026-10-22 10:07:13Z" end-time="2026-10-22 10:07:14Z" duration="0.289235" total="15" passed="15" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="EditMode" />
+    </properties>
+    <test-suite type="Assembly" id="1017" name="Pat.ArLab.Tests.dll" fullname="C:/Code/ar_PAT/Library/ScriptAssemblies/Pat.ArLab.Tests.dll" runstate="Runnable" testcasecount="15" result="Passed" start-time="2026-10-22 10:07:13Z" end-time="2026-10-22 10:07:14Z" duration="0.265026" total="15" passed="15" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="35940" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+        <property name="EditorOnly" value="True" />
+      </properties>
+      <test-suite type="TestSuite" id="1018" name="Pat" fullname="Pat" runstate="Runnable" testcasecount="15" result="Passed" start-time="2026-10-22 10:07:13Z" end-time="2026-10-22 10:07:14Z" duration="0.264399" total="15" passed="15" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestSuite" id="1019" name="ArLab" fullname="Pat.ArLab" runstate="Runnable" testcasecount="15" result="Passed" start-time="2026-10-22 10:07:13Z" end-time="2026-10-22 10:07:14Z" duration="0.264218" total="15" passed="15" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-suite type="TestSuite" id="1020" name="Tests" fullname="Pat.ArLab.Tests" runstate="Runnable" testcasecount="15" result="Passed" start-time="2026-10-22 10:07:13Z" end-time="2026-10-22 10:07:14Z" duration="0.264002" total="15" passed="15" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-suite type="TestFixture" id="1001" name="HuntRulesTests" fullname="Pat.ArLab.Tests.HuntRulesTests" classname="Pat.ArLab.Tests.HuntRulesTests" runstate="Runnable" testcasecount="15" result="Passed" start-time="2026-10-22 10:07:13Z" end-time="2026-10-22 10:07:14Z" duration="0.262018" total="15" passed="15" failed="0" inconclusive="0" skipped="0" asserts="0">
+              <properties />
+              <test-case id="1015" name="AllSixMarkersHaveDistinctNamesAndPhysicalSizes" fullname="Pat.ArLab.Tests.HuntRulesTests.AllSixMarkersHaveDistinctNamesAndPhysicalSizes" methodname="AllSixMarkersHaveDistinctNamesAndPhysicalSizes" classname="Pat.ArLab.Tests.HuntRulesTests" runstate="Runnable" seed="2124729564" result="Passed" start-time="2026-10-22 10:07:13Z" end-time="2026-10-22 10:07:14Z" duration="0.091836" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1004" name="AppStallCannotFastForwardScan" fullname="Pat.ArLab.Tests.HuntRulesTests.AppStallCannotFastForwardScan" methodname="AppStallCannotFastForwardScan" classname="Pat.ArLab.Tests.HuntRulesTests" runstate="Runnable" seed="1428039573" result="Passed" start-time="2026-10-22 10:07:14Z" end-time="2026-10-22 10:07:14Z" duration="0.003041" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1008" name="ArbitraryMarkerCannotBeRegistered" fullname="Pat.ArLab.Tests.HuntRulesTests.ArbitraryMarkerCannotBeRegistered" methodname="ArbitraryMarkerCannotBeRegistered" classname="Pat.ArLab.Tests.HuntRulesTests" runstate="Runnable" seed="28671326" result="Passed" start-time="2026-10-22 10:07:14Z" end-time="2026-10-22 10:07:14Z" duration="0.014376" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1016" name="BothMobilePlatformsHaveTheCorrectXrProvider" fullname="Pat.ArLab.Tests.HuntRulesTests.BothMobilePlatformsHaveTheCorrectXrProvider" methodname="BothMobilePlatformsHaveTheCorrectXrProvider" classname="Pat.ArLab.Tests.HuntRulesTests" runstate="Runnable" seed="1800636205" result="Passed" start-time="2026-10-22 10:07:14Z" end-time="2026-10-22 10:07:14Z" duration="0.003322" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1009" name="DailyQuotaIsSharedAcrossPlantsAndSurvivesRestart" fullname="Pat.ArLab.Tests.HuntRulesTests.DailyQuotaIsSharedAcrossPlantsAndSurvivesRestart" methodname="DailyQuotaIsSharedAcrossPlantsAndSurvivesRestart" classname="Pat.ArLab.Tests.HuntRulesTests" runstate="Runnable" seed="2073551460" result="Passed" start-time="2026-10-22 10:07:14Z" end-time="2026-10-22 10:07:14Z" duration="0.040759" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1014" name="DamagedSaveIsPreservedRatherThanSilentlyDeleted" fullname="Pat.ArLab.Tests.HuntRulesTests.DamagedSaveIsPreservedRatherThanSilentlyDeleted" methodname="DamagedSaveIsPreservedRatherThanSilentlyDeleted" classname="Pat.ArLab.Tests.HuntRulesTests" runstate="Runnable" seed="1747838845" result="Passed" start-time="2026-10-22 10:07:14Z" end-time="2026-10-22 10:07:14Z" duration="0.010459" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1010" name="DuplicateCaptureRequestOnlyAwardsOnePet" fullname="Pat.ArLab.Tests.HuntRulesTests.DuplicateCaptureRequestOnlyAwardsOnePet" methodname="DuplicateCaptureRequestOnlyAwardsOnePet" classname="Pat.ArLab.Tests.HuntRulesTests" runstate="Runnable" seed="1210527866" result="Passed" start-time="2026-10-22 10:07:14Z" end-time="2026-10-22 10:07:14Z" duration="0.005034" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1005" name="LockedTargetCannotSwitchToAnotherPlant" fullname="Pat.ArLab.Tests.HuntRulesTests.LockedTargetCannotSwitchToAnotherPlant" methodname="LockedTargetCannotSwitchToAnotherPlant" classname="Pat.ArLab.Tests.HuntRulesTests" runstate="Runnable" seed="87793959" result="Passed" start-time="2026-10-22 10:07:14Z" end-time="2026-10-22 10:07:14Z" duration="0.002148" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1003" name="LostTrackingNeverAdvancesScanAndBlocksCatch" fullname="Pat.ArLab.Tests.HuntRulesTests.LostTrackingNeverAdvancesScanAndBlocksCatch" methodname="LostTrackingNeverAdvancesScanAndBlocksCatch" classname="Pat.ArLab.Tests.HuntRulesTests" runstate="Runnable" seed="363168794" result="Passed" start-time="2026-10-22 10:07:14Z" end-time="2026-10-22 10:07:14Z" duration="0.001835" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1007" name="MarkerMappingIsUniqueAndPersistsAcrossRestarts" fullname="Pat.ArLab.Tests.HuntRulesTests.MarkerMappingIsUniqueAndPersistsAcrossRestarts" methodname="MarkerMappingIsUniqueAndPersistsAcrossRestarts" classname="Pat.ArLab.Tests.HuntRulesTests" runstate="Runnable" seed="1507534567" result="Passed" start-time="2026-10-22 10:07:14Z" end-time="2026-10-22 10:07:14Z" duration="0.025555" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1011" name="PracticeDoesNotConsumeQuotaOrAwardInventory" fullname="Pat.ArLab.Tests.HuntRulesTests.PracticeDoesNotConsumeQuotaOrAwardInventory" methodname="PracticeDoesNotConsumeQuotaOrAwardInventory" classname="Pat.ArLab.Tests.HuntRulesTests" runstate="Runnable" seed="582819214" result="Passed" start-time="2026-10-22 10:07:14Z" end-time="2026-10-22 10:07:14Z" duration="0.012428" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1002" name="TenSecondsOfValidTrackingAreRequired" fullname="Pat.ArLab.Tests.HuntRulesTests.TenSecondsOfValidTrackingAreRequired" methodname="TenSecondsOfValidTrackingAreRequired" classname="Pat.ArLab.Tests.HuntRulesTests" runstate="Runnable" seed="255120789" result="Passed" start-time="2026-10-22 10:07:14Z" end-time="2026-10-22 10:07:14Z" duration="0.002676" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1012" name="UnownedPlantNeverAwardsPet" fullname="Pat.ArLab.Tests.HuntRulesTests.UnownedPlantNeverAwardsPet" methodname="UnownedPlantNeverAwardsPet" classname="Pat.ArLab.Tests.HuntRulesTests" runstate="Runnable" seed="362997950" result="Passed" start-time="2026-10-22 10:07:14Z" end-time="2026-10-22 10:07:14Z" duration="0.002015" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1006" name="UnregisteredMarkersCannotOpenGardenPlant" fullname="Pat.ArLab.Tests.HuntRulesTests.UnregisteredMarkersCannotOpenGardenPlant" methodname="UnregisteredMarkersCannotOpenGardenPlant" classname="Pat.ArLab.Tests.HuntRulesTests" runstate="Runnable" seed="2049677572" result="Passed" start-time="2026-10-22 10:07:14Z" end-time="2026-10-22 10:07:14Z" duration="0.001701" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-case id="1013" name="VietnamMidnightResetsDailyQuota" fullname="Pat.ArLab.Tests.HuntRulesTests.VietnamMidnightResetsDailyQuota" methodname="VietnamMidnightResetsDailyQuota" classname="Pat.ArLab.Tests.HuntRulesTests" runstate="Runnable" seed="2006082627" result="Passed" start-time="2026-10-22 10:07:14Z" end-time="2026-10-22 10:07:14Z" duration="0.010832" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+                <output><![CDATA[Saving results to: C:\Code\ar_PAT\TestResults\editmode.xml
+]]></output>
+              </test-case>
+            </test-suite>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

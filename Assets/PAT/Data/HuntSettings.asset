@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 225908a38fffecc47ac5270ecc929b15, type: 3}
+  m_Name: HuntSettings
+  m_EditorClassIdentifier: Pat.ArLab.Runtime::Pat.ArLab.HuntSettings
+  scanDuration: 10
+  recognitionHold: 0.8
+  trackingLossReset: 12
+  minimumCameraDistance: 0.25
+  maximumCameraDistance: 3
+  spawnRadiusMinimum: 0.2
+  spawnRadiusMaximum: 0.45
+  spawnHeight: 0.2
+  plantCenterOffset: {x: 0, y: 0, z: 0}
+  practiceByDefault: 1
+  showDebugByDefault: 0

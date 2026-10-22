@@ -1,0 +1,7 @@
+{
+  "name": "Pat.ArLab.Tests",
+  "rootNamespace": "Pat.ArLab.Tests",
+  "references": ["Pat.ArLab.Core", "Pat.ArLab.Runtime", "Pat.ArLab.Editor", "Unity.XR.ARSubsystems", "Unity.XR.ARFoundation", "Unity.XR.Management", "Unity.XR.Management.Editor"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

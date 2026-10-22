@@ -1,0 +1,13 @@
+{
+  "name": "Pat.ArLab.Runtime",
+  "rootNamespace": "Pat.ArLab",
+  "references": [
+    "Pat.ArLab.Core",
+    "Unity.XR.ARFoundation",
+    "Unity.XR.ARSubsystems",
+    "Unity.XR.CoreUtils",
+    "Unity.InputSystem",
+    "Unity.ugui"
+  ],
+  "autoReferenced": true
+}

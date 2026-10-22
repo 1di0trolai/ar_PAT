@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: PlantMarkers
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 4984543123922676808
+  m_GuidHigh: 7891419073983293568
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5303087573391642727
+      m_GuidHigh: 5383242688971177089
+    m_SerializedTextureGuid:
+      m_GuidLow: 1690037156210398286
+      m_GuidHigh: 15408609935304825338
+    m_Size: {x: 0.12, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: PAT-001
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5362886634483503932
+      m_GuidHigh: 2098390046536597901
+    m_SerializedTextureGuid:
+      m_GuidLow: 8909346955839293989
+      m_GuidHigh: 14377228197737144490
+    m_Size: {x: 0.12, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: PAT-002
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5710470950896203691
+      m_GuidHigh: 15543304595987702679
+    m_SerializedTextureGuid:
+      m_GuidLow: 2045793601981871690
+      m_GuidHigh: 2547741429460116715
+    m_Size: {x: 0.12, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: PAT-003
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5374069010340456997
+      m_GuidHigh: 11776992005293890966
+    m_SerializedTextureGuid:
+      m_GuidLow: 5626387466769056587
+      m_GuidHigh: 2477683595744829370
+    m_Size: {x: 0.12, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: PAT-004
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4770625596227028653
+      m_GuidHigh: 984432898858633862
+    m_SerializedTextureGuid:
+      m_GuidLow: 915546121222183369
+      m_GuidHigh: 17590385240250886922
+    m_Size: {x: 0.12, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: PAT-005
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5081420461414616179
+      m_GuidHigh: 1643159871687551374
+    m_SerializedTextureGuid:
+      m_GuidLow: 3194246646367589511
+      m_GuidHigh: 16968038020373948411
+    m_Size: {x: 0.12, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: PAT-006
+    m_Texture: {fileID: 0}

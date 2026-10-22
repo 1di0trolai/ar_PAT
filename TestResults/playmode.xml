@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="4" result="Passed" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-10-22 10:09:10Z" end-time="2026-10-22 10:09:15Z" duration="5.7825454">
+  <test-suite type="TestSuite" id="1012" name="PAT AR Lab" fullname="PAT AR Lab" runstate="Runnable" testcasecount="4" result="Passed" start-time="2026-10-22 10:09:10Z" end-time="2026-10-22 10:09:15Z" duration="5.782545" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="PlayMode" />
+    </properties>
+    <test-suite type="Assembly" id="1006" name="Pat.ArLab.PlayTests.dll" fullname="C:/Code/ar_PAT/Library/ScriptAssemblies/Pat.ArLab.PlayTests.dll" runstate="Runnable" testcasecount="4" result="Passed" start-time="2026-10-22 10:09:10Z" end-time="2026-10-22 10:09:15Z" duration="5.759986" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="14504" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="PlayMode" />
+        <property name="EditorOnly" value="False" />
+      </properties>
+      <test-suite type="TestSuite" id="1007" name="Pat" fullname="Pat" runstate="Runnable" testcasecount="4" result="Passed" start-time="2026-10-22 10:09:10Z" end-time="2026-10-22 10:09:15Z" duration="5.758875" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestSuite" id="1008" name="ArLab" fullname="Pat.ArLab" runstate="Runnable" testcasecount="4" result="Passed" start-time="2026-10-22 10:09:10Z" end-time="2026-10-22 10:09:15Z" duration="5.758245" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-suite type="TestSuite" id="1009" name="Tests" fullname="Pat.ArLab.Tests" runstate="Runnable" testcasecount="4" result="Passed" start-time="2026-10-22 10:09:10Z" end-time="2026-10-22 10:09:15Z" duration="5.757734" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-suite type="TestFixture" id="1001" name="ArHuntFlowTests" fullname="Pat.ArLab.Tests.ArHuntFlowTests" classname="Pat.ArLab.Tests.ArHuntFlowTests" runstate="Runnable" testcasecount="4" result="Passed" start-time="2026-10-22 10:09:10Z" end-time="2026-10-22 10:09:15Z" duration="5.755489" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="0">
+              <properties />
+              <test-case id="1004" name="AimAndCatchRecordsOnePracticeReceiptWithoutAwardingInventory" fullname="Pat.ArLab.Tests.ArHuntFlowTests.AimAndCatchRecordsOnePracticeReceiptWithoutAwardingInventory" methodname="AimAndCatchRecordsOnePracticeReceiptWithoutAwardingInventory" classname="Pat.ArLab.Tests.ArHuntFlowTests" runstate="Runnable" seed="571940028" result="Passed" start-time="2026-10-22 10:09:10Z" end-time="2026-10-22 10:09:12Z" duration="2.054687" asserts="0">
+                <properties>
+                  <property name="_JOINTYPE" value="UnityCombinatorial" />
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+                <output><![CDATA[No Camera Floor Offset GameObject specified for XR Origin, using attached GameObject.
+]]></output>
+              </test-case>
+              <test-case id="1005" name="CapturePortraitPreview" fullname="Pat.ArLab.Tests.ArHuntFlowTests.CapturePortraitPreview" methodname="CapturePortraitPreview" classname="Pat.ArLab.Tests.ArHuntFlowTests" runstate="Runnable" seed="197101760" result="Passed" start-time="2026-10-22 10:09:12Z" end-time="2026-10-22 10:09:12Z" duration="0.632003" asserts="0">
+                <properties>
+                  <property name="_JOINTYPE" value="UnityCombinatorial" />
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+                <output><![CDATA[No Camera Floor Offset GameObject specified for XR Origin, using attached GameObject.
+]]></output>
+              </test-case>
+              <test-case id="1003" name="TrackingLossAndGardenMenuPauseTheActualController" fullname="Pat.ArLab.Tests.ArHuntFlowTests.TrackingLossAndGardenMenuPauseTheActualController" methodname="TrackingLossAndGardenMenuPauseTheActualController" classname="Pat.ArLab.Tests.ArHuntFlowTests" runstate="Runnable" seed="313118469" result="Passed" start-time="2026-10-22 10:09:12Z" end-time="2026-10-22 10:09:15Z" duration="2.339562" asserts="0">
+                <properties>
+                  <property name="_JOINTYPE" value="UnityCombinatorial" />
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+                <output><![CDATA[No Camera Floor Offset GameObject specified for XR Origin, using attached GameObject.
+]]></output>
+              </test-case>
+              <test-case id="1002" name="UnregisteredMarkerIsRejectedAndRegistrationUnlocksTheCorrectPlant" fullname="Pat.ArLab.Tests.ArHuntFlowTests.UnregisteredMarkerIsRejectedAndRegistrationUnlocksTheCorrectPlant" methodname="UnregisteredMarkerIsRejectedAndRegistrationUnlocksTheCorrectPlant" classname="Pat.ArLab.Tests.ArHuntFlowTests" runstate="Runnable" seed="375537112" result="Passed" start-time="2026-10-22 10:09:15Z" end-time="2026-10-22 10:09:15Z" duration="0.699770" asserts="0">
+                <properties>
+                  <property name="_JOINTYPE" value="UnityCombinatorial" />
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+                <output><![CDATA[No Camera Floor Offset GameObject specified for XR Origin, using attached GameObject.
+Saving results to: C:\Code\ar_PAT\TestResults\playmode.xml
+]]></output>
+              </test-case>
+            </test-suite>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

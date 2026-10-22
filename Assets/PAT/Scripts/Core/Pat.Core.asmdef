@@ -1,0 +1,6 @@
+{
+  "name": "Pat.ArLab.Core",
+  "rootNamespace": "Pat.ArLab",
+  "references": [],
+  "autoReferenced": true
+}

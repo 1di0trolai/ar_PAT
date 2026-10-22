@@ -1,0 +1,6 @@
+PAT-001|Markers/PAT-001.png|0.12
+PAT-002|Markers/PAT-002.png|0.12
+PAT-003|Markers/PAT-003.png|0.12
+PAT-004|Markers/PAT-004.png|0.12
+PAT-005|Markers/PAT-005.png|0.12
+PAT-006|Markers/PAT-006.png|0.12

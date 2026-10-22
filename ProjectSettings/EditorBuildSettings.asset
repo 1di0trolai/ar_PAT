@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PAT/Scenes/PlantHunt.unity
+    guid: b77035d1f64d6114eb9bdd54d5fef9e7
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: c497fa343c7990a4da88f2529bfe7652, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: f4d26bfb6d3e620419173a978b2a7bfb, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: b8e69d47691668e489650f2b5a4f3f7a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 993628dded01f3142ac78ec9e58f2aee, type: 2}
